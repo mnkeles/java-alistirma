@@ -9,7 +9,7 @@ public class KullanıcıGirisi {
         username= inp.nextLine();
 
 
-        if(username.equals("nkeles")){
+        if(username.equals("m.n.keles")){
 
             System.out.print("şifre:");
             password= inp.nextLine();
